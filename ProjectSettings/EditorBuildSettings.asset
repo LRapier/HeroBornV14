@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6e0c1f243f62e764d8a6ee18da0154ad
+  - enabled: 1
+    path: Assets/Scenes/HeroBornNight.unity
+    guid: 5ba0ab77ac88d8146bed9407fea78b50
+  - enabled: 1
+    path: Assets/Scenes/GameWin.unity
+    guid: 5436458aa86d71a48b0626c3683ba912
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
